@@ -1,0 +1,19 @@
+
+
+@media screen and (min-width: 767px) {
+  .navbar {
+    display: none;
+    font-family: 'Poiret One', cursive !important;
+  }
+
+
+
+}
+
+
+@media screen and(max-width: 767px) {
+  .widenav {
+    visibility: hidden;
+    font-family: 'Poiret One', cursive !important;
+  }
+}
